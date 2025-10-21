@@ -218,8 +218,8 @@ Problem → Validate → Team → Tech Stack → MVP → Test → Document → L
 
 Your first project is waiting to be created.
 
-[⭐ Star this repo](https://github.com/yourusername) • [🐛 Report Issue](https://github.com/yourusername/issues) • [📧 Contact](mailto:your@email.com)
+[📧 Contact](https://www.linkedin.com/in/rocky0714/)
 
-Made with 💪 and hustle
-
+Made with experience and a will to build a better world....
+Au Revoir 🫱🏻‍🫲🏻
 </div>
