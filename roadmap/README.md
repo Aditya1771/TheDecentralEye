@@ -27,29 +27,6 @@ Frameworks for planning and tracking progress:
 - **Skill Assessment** - Tools for evaluating your current level
 - **Progress Tracking** - Methods for monitoring your development
 
-## 📖 Roadmap Categories
-
-### 🔰 Beginner-Friendly
-- `getting-started/` - Your first steps in programming
-- `fundamentals/` - Core concepts every developer should know
-- `first-job/` - Landing your first tech role
-
-### 🚀 Intermediate
-- `specialization/` - Diving deeper into specific technologies
-- `projects/` - Building portfolio projects
-- `networking/` - Building professional connections
-
-### 🏆 Advanced
-- `leadership/` - Developing leadership skills
-- `system-design/` - Architecting large-scale systems
-- `mentorship/` - Giving back to the community
-
-## 📑 Templates & Guidelines
-
-- `roadmap-template.md` - Standard template for creating new roadmaps
-- `timeline-template.md` - Template for time-based learning plans
-- `skill-matrix-template.md` - Template for skill assessment matrices
-
 ## 🌟 Featured Roadmaps
 
 *Coming soon! This section will showcase the most popular and comprehensive roadmaps.*
