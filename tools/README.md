@@ -43,23 +43,6 @@ Tools to enhance your workflow:
 - **Time Management** - Pomodoro timers, calendar management
 - **Communication** - Slack, Discord, professional networking
 
-## 📂 Tool Categories
-
-### 🆓 Free Tools
-- `free-resources/` - Completely free tools and platforms
-- `open-source/` - Open source alternatives to paid tools
-- `student-discounts/` - Free tools available for students
-
-### 💰 Paid Tools
-- `premium-tools/` - Paid tools worth the investment
-- `trial-guides/` - How to make the most of free trials
-- `team-tools/` - Tools for collaborative development
-
-### 🏢 Enterprise
-- `enterprise-solutions/` - Tools for large-scale development
-- `compliance-tools/` - Security and compliance requirements
-- `integration-guides/` - Connecting different tools and services
-
 ## 📑 Tool Review Format
 
 Each tool recommendation should include:
